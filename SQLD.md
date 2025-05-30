@@ -175,3 +175,9 @@
   - 산술 → 연결(||) → 비교 → IN, LIKE → NOT → AND → OR  
 - ANY 연산자  
   - `A > ANY(B)`는 B 중 최소값보다 크면 TRUE
+
+
+직전 꿀팁들
+
+1. GROUB BY ㅇ ORDER BY ㅁ 에서 ㅁ는 ㅇ안에 없으면 사용 불가
+2. ORDER BY 2 이렇게 숫자를 쓰면 N번 째 칼럼을 뜻하기때문에, 그 칼럼이 SELECT문 안에 없으면 사용 불가
