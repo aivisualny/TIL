@@ -1,11 +1,11 @@
-## 오늘의 영단어 & 문장 ✅ ❌ 🔄 
+## 오늘의 영단어 & 문장  
 
-### 2025-06-05
+### 2025-06-05 ✅ ❌ 🔄
 
 #### 단어
 
-1. meticulous ❌
-2. alleviate ❌
+1. meticulous ❌ 꼼꼼한, 세심한 - She's `meticulous` about keeping her workspace clean.
+2. alleviate ❌ 완화하다 - This medicine helps `alleviate` the symptoms of a cold.
 3. resillient ✅
 4. tangible 🔄
 5. detrimental 🔄
@@ -46,3 +46,50 @@
 
 10. We need to `strike a balance` between speed and accuracy. 
 (속도와 정확성 사이에서 균형을 잡아야 해요.)
+
+### 2025-06-06 ✅ ❌ 🔄
+
+#### 단어
+
+1. contemplate ✅
+2. plausible ✅
+3. reluctant ✅
+4. vindicate ✅
+5. convoluted ❌
+6. superfluous 🔄
+7. elusive ❌
+8. pervasive 🔄
+9. scrupulous ❌
+10. exacerbate ❌
+
+#### 문장
+
+1. `I couldn’t agree more` with what you just said.
+(방금 하신 말씀에 전적으로 동의해요.)
+
+2. `Let’s not jump` to conclusions just yet.
+(아직은 성급한 결론을 내리지 말죠.)
+
+3. `I’ll get back to you` on that as soon as I can.
+(그건 가능한 빨리 다시 말씀드릴게요.)
+
+4. The pros `clearly outweigh` the cons in this case.
+(이 경우에는 장점이 단점을 확실히 능가해요.)
+
+5. `We’re on the same page`, then.
+(그럼 생각이 같군요.)
+
+6. `There’s a lot at stake` here.
+(여기엔 중요한 게 걸려 있어요.)
+
+7. `I’d rather play it safe` than take unnecessary risks.
+(불필요한 위험을 감수하느니 조심하는 편이 낫겠어요.)
+
+8. That solution is not sustainable `in the long run`.
+(그 해결책은 장기적으로 지속 가능하지 않아요.)
+
+9. `Let’s weigh our options` before making a decision.
+(결정하기 전에 선택지를 잘 따져보죠.)
+
+10. `You took the words right out of my mouth`.
+(정말 제가 하려던 말을 하셨네요.)
