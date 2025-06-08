@@ -55,12 +55,12 @@
 2. plausible ✅
 3. reluctant ✅
 4. vindicate ✅
-5. convoluted ❌
+5. convoluted ❌ 복잡한, 난해한 - The plot of the movie was too convoluted to follow.
 6. superfluous 🔄
-7. elusive ❌
+7. elusive ❌ 찾기 힘든, 이해하기 어려운 - The answer remains elusive despite our efforts.
 8. pervasive 🔄
-9. scrupulous ❌
-10. exacerbate ❌
+9. scrupulous ❌ 양심적인, 꼼꼼한 - She is always scrupulous about honesty.
+10. exacerbate ❌ 악화시키다 - His comments only exacerbated the situation.
 
 #### 문장
 
@@ -94,4 +94,49 @@
 10. `You took the words right out of my mouth`.
 (정말 제가 하려던 말을 하셨네요.)
 
-### 2025-06-07 ✅ ❌ 🔄
+### 2025-06-08 ✅ ❌ 🔄
+
+#### 단어
+
+1. juxtapose ❌
+2. pragmatic ❌
+3. unprecedented ✅
+4. diligent ✅
+5. discrepancy ✅
+6. substantiate ✅
+7. coherent ✅
+8. relinquish ❌
+9. inept ❌
+10. intricate 🔄
+
+#### 문장
+
+1. `Let’s not lose` sight of the bigger picture.
+(전체적인 흐름을 놓치지 말자고요.)
+
+2. `In all honesty`, I don’t think that’s a viable option.
+(솔직히 말해서, 그건 실현 가능한 선택이 아니라고 봐요.)
+
+3. `This matter` requires immediate attention.
+(이 사안은 즉각적인 주의가 필요해요.)
+
+4. `No offense`, but I think `you're missing the point`.
+(기분 나쁘게 듣지 마세요, 하지만 요점을 잘못 짚은 것 같아요.)
+
+5. Let’s `agree to disagree`.
+(의견이 다르다는 데 동의하죠.)
+
+6. It’s a `double-edged sword`.
+(그건 양날의 검이에요.)
+
+7. `If anything`, it made things worse.
+(오히려 상황이 더 악화됐어요.)
+
+8. `Time is of the essence` in this situation.
+(이 상황에선 시간이 정말 중요해요.)
+
+9. I’m afraid `that’s beyond my expertise`.
+(그건 제 전문 분야를 벗어난 것 같아요.)
+
+10. He `made a compelling case` for change.
+(그는 변화에 대해 설득력 있는 주장을 펼쳤어요.)
