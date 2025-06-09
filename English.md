@@ -98,15 +98,15 @@
 
 #### 단어
 
-1. juxtapose ❌
-2. pragmatic ❌
+1. juxtapose 🔄
+2. pragmatic ❌ 실용적인, 현실적인 - We need a more pragmatic approach to the problem.
 3. unprecedented ✅
 4. diligent ✅
 5. discrepancy ✅
 6. substantiate ✅
 7. coherent ✅
-8. relinquish ❌
-9. inept ❌
+8. relinquish ❌ 포기하다, 넘겨주다 - She had to relinquish control of the company.
+9. inept ❌ 서투른, 무능한 - His inept handling of the situation made it worse.
 10. intricate 🔄
 
 #### 문장
@@ -140,3 +140,50 @@
 
 10. He `made a compelling case` for change.
 (그는 변화에 대해 설득력 있는 주장을 펼쳤어요.)
+
+### 2025-06-09 ✅ ❌ 🔄
+
+#### 단어
+
+1. feasible 🔄
+2. indispensable ❌
+3. ambivalent ❌
+4. repercussion ❌
+5. succinct ❌
+6. defer 🔄
+7. equivocal ❌
+8. deteriorate 🔄
+9. assertive ✅
+10. mitigate
+
+#### 문장
+
+1. `Let me be clear` about one thing.
+(한 가지는 확실히 해두고 싶어요.)
+
+2. `That’s easier said than done`, unfortunately.
+(그건 말처럼 쉬운 일이 아니에요, 안타깝게도.)
+
+3. `We can’t afford to` make the same mistake twice.
+(같은 실수를 두 번 할 여유는 없어요.)
+
+4. `It’s not ideal`, but it’s the best option we have.
+(최선은 아니지만, 우리가 가진 가장 나은 선택이에요.)
+
+5. `I wouldn’t go so far as to` say that.
+(그 정도까지는 말 못하겠어요.)
+
+6. The data `speaks for itself`.
+(데이터가 모든 걸 말해주고 있어요.)
+
+7. Let’s `not get ahead of` ourselves.
+(지나치게 앞서가지 말죠.)
+
+8. We need to approach this `with caution`.
+(이건 신중하게 접근할 필요가 있어요.)
+
+9. `That’s a valid concern`, and I agree.
+(그건 타당한 우려이며 저도 동의합니다.)
+
+10. Consistency `is key` when building trust.
+(신뢰를 쌓으려면 일관성이 가장 중요하죠.)
