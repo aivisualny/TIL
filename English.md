@@ -187,3 +187,50 @@
 
 10. Consistency `is key` when building trust.
 (신뢰를 쌓으려면 일관성이 가장 중요하죠.)
+
+### 2025-06-10 ✅ ❌ 🔄
+
+#### 단어
+
+1. candid ❌
+2. tedious 🔄
+3. astute ❌
+4. lenient ❌
+5. epitome ❌
+6. obsolete 🔄
+7. concede ❌
+8. impeccable ❌
+9. refute ✅
+10. apprehensive ❌
+
+#### 문장
+
+1. `With all due respect`, I have to disagree.
+(외람되지만, 동의하기 어렵습니다.)
+
+2. Let’s try to find some `common ground`.
+(공통점을 찾아보도록 해요.)
+
+3. That’s precisely `what I was thinking`.
+(딱 제가 생각하던 바예요.)
+
+4. I’m afraid `things didn’t go` as planned.
+(유감스럽게도 일이 계획대로 되지 않았어요.)
+
+5. He tends to overlook `the finer details`.
+(그는 세세한 부분을 자주 간과하는 경향이 있어요.)
+
+6. Let’s `put ourselves in their shoes`.
+(그들의 입장에서 생각해봅시다.)
+
+7. This isn’t the time to `point fingers`.
+(지금은 서로를 비난할 때가 아니에요.)
+
+8. `It all comes down to` preparation.
+(결국 중요한 건 준비예요.)
+
+9. We should approach this from a `different angle`.
+(이건 다른 시각에서 접근해야 할 문제예요.)
+
+10. I `appreciate your honesty`.
+(솔직히 말씀해주셔서 감사합니다.)
