@@ -234,3 +234,44 @@
 
 10. I `appreciate your honesty`.
 (솔직히 말씀해주셔서 감사합니다.)
+
+### 2025-06-11 ✅ ❌ 🔄
+
+    주제 : 자기소개
+
+#### 단어
+
+1. articulate 
+2. upbringing 
+3. aspiration 
+4. personable
+5. endeavor 
+6. proficient 
+7. demeanor 
+8. inquisitive 
+9. resilient 
+10. background 
+
+#### 문장
+
+1. I’d describe myself as an `articulate` and driven individual.
+(저는 표현이 분명하고 추진력 있는 사람이라고 말할 수 있어요.) – (생각을) 분명하게 말하는
+2. My `upbringing` played a big role in shaping who I am today.
+(제 성장 배경은 지금의 저를 형성하는 데 큰 영향을 미쳤어요.) – 양육, 성장 과정
+3. I’ve always had a strong `aspiration` to work in creative fields.
+(저는 항상 창의적인 분야에서 일하고 싶은 강한 열망이 있었어요.) – 열망, 포부
+4. People often say I’m quite `personable` and easy to talk to.
+(사람들은 저를 호감이 가고 대화하기 편한 사람이라고 자주 말해요.) – 호감이 가는, 친근한
+5. I’m currently `endeavoring` to improve my public speaking skills.
+(저는 현재 발표 능력을 향상시키기 위해 노력 중이에요.) – 노력하다, 시도하다
+6. I’m `proficient` in both Korean and English.
+(저는 한국어와 영어 모두 능숙하게 구사할 수 있어요.) – 능숙한
+7. My `demeanor` is usually calm and approachable.
+(저는 대체로 침착하고 친근한 태도를 가지고 있어요.) – 태도, 품행
+8. I’ve always been an `inquisitive` learner.
+(저는 항상 호기심 많은 학습자였어요.) – 호기심 많은
+9. One thing I take pride in is being `resilient` in tough times.
+(제가 자부심을 갖는 점은 어려운 시기에도 회복력이 있다는 거예요.) – 회복력 있는
+10. I come from a multicultural `background`, which shaped my worldview.
+(저는 다문화적인 배경을 가지고 있어 그것이 제 세계관에 영향을 주었어요.) – 배경, 경력
+
